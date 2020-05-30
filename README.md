@@ -6,8 +6,8 @@
 ```bash
 $> sudo apt install libpcl-dev
 $> cd ~
-$> git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
-$> cd SFND_Lidar_Obstacle_Detection
+$> git clone https://github.com/omar-bakr/Road-segmentation.git
+$> cd Road-segmentation
 $> mkdir build && cd build
 $> cmake ..
 $> make
